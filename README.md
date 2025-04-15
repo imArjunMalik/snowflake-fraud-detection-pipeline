@@ -58,10 +58,6 @@ Key features were evaluated based on their distribution across labels (benign vs
 ![SSN 72hr Velocity](graphs/SSN_72hr_Velocity_boxplot_by_label.png)
 ![SSN 24hr Velocity](graphs/SSN_24hr_Velocity_boxplot_by_label.png)
 
-#### Phone Velocity Distributions
-![Phone 72hr Velocity](graphs/Phone_72hr_Velocity_boxplot_by_label.png)
-![Phone 24hr Velocity](graphs/Phone_24hr_Velocity_boxplot_by_label.png)
-
 #### Risk and Anomaly Features
 ![KYC Score](graphs/KYC_Score_boxplot_by_label.png)
 ![Email Gibberish Score](graphs/Email_Gibberish_Score_boxplot_by_label.png)
