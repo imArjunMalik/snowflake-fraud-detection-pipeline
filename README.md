@@ -64,6 +64,11 @@ Key features were evaluated based on their distribution across labels (benign vs
 
 ## Results
 
+### Account Opening Patterns
+This chart visualizes the number of attempts made before a successful account opening. It reveals that benign users typically succeed in 1–10 attempts, whereas fraudsters often require many more retries—an important behavioral signal.
+
+![Attempts to Successful Opening](graphs/Attempts_Successful_Openings.png)
+
 ### Workflow Efficiency
 The introduction of the model reduced manual agent review volume by approximately **35%** by auto-rejecting extreme-risk transactions, with no compromise to fraud catch rate.
 
